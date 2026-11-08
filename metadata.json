@@ -1,0 +1,6 @@
+{
+  "name": "Trivia Bíblica",
+  "description": "A Bible trivia game to test your knowledge of verses and their references, with categories for promises and commandments.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
